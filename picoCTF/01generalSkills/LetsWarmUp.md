@@ -1,17 +1,16 @@
-# Let's warm up  
+# Let's warm Up  
 
 # Descripción 
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
 
 # Solución
 
-## 1.- Python
+## 1. Python
 Usando el siguiente comando:
-	
-```python
 
-	print(bytes.fromhex('70').decode('ascii'))
-	Flag:picoCTF{p}
+```python
+print(bytes.fromhex('70').decode('ascii'))
+#Flag:picoCTF{p}
 ```
 
 # Notas adicionales 
