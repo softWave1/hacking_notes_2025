@@ -40,3 +40,15 @@
 8. [PW Crack 2](picoCTF/03generalSkills/pwCrack2.md)
 9. [PW Crack 3](picoCTF/03generalSkills/pwCrack3.md)
 10. [Serpentine](picoCTF/03generalSkills/serpentine.md)
+
+## PicoCTF - General Skills - Tarea 01
+1. [Permissions](picoCTF/generalSkillsTarea01/permissions.md)
+2. [Chrono](picoCTF/generalSkillsTarea01/chrono.md)
+3. [Special](picoCTF/generalSkillsTarea01/special.md)
+4. [Commitment Issues](picoCTF/generalSkillsTarea01/commitment_issues.md)
+5. [Time Machine](picoCTF/generalSkillsTarea01/timeMachine.md)
+6. [Blame Game](picoCTF/generalSkillsTarea01/blameGame.md)
+7. [Collaborative Development](picoCTF/generalSkillsTarea01/collaborativeDevelopment.md)
+8. [Binary Search](picoCTF/generalSkillsTarea01/binarySearch.md)
+9. [Binhexa](picoCTF/generalSkillsTarea01/binhexa.md)
+10. [ASCII Numbers](picoCTF/generalSkillsTarea01/asciiNumbers.md)
