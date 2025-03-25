@@ -61,7 +61,7 @@
 5. [Pico browser](picoCTF/web01/picoBrowser.md)
 6. [Client side again](picoCTF/web01/clientSideAgain.md)
 
-## # picoCTF Web 2
+## PicoCTF - Web 2
 1. [Get a head](picoCTF/web02/getAhead.md)
 2. [Cookies](picoCTF/web02/cookies.md)
 3. [Scavenger Hunt](picoCTF/web02/scavengerHunt.md)
