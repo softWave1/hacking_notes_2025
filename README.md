@@ -60,6 +60,12 @@
 4. [Don't use client side](picoCTF/web01/dontUseClientSide.md)
 5. [Pico browser](picoCTF/web01/picoBrowser.md)
 6. [Client side again](picoCTF/web01/clientSideAgain.md)
-7. 
+
+## # picoCTF Web 2
+1. [Get a head](picoCTF/web02/getAhead.md)
+2. [Cookies](picoCTF/web02/cookies.md)
+3. [Scavenger Hunt](picoCTF/web02/scavengerHunt.md)
+
+
 
 
