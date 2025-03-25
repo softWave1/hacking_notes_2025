@@ -52,3 +52,14 @@
 8. [Binary Search](picoCTF/generalSkillsTarea01/binarySearch.md)
 9. [Binhexa](picoCTF/generalSkillsTarea01/binhexa.md)
 10. [ASCII Numbers](picoCTF/generalSkillsTarea01/asciiNumbers.md)
+
+## PicoCTF - Web 1
+1. [Insp3ct0r](picoCTF/web01/insp3ct0r.md)
+2. [Where are the robots](picoCTF/web01/whereAreTheRobots.md)
+3. [Logon](picoCTF/web01/logon.md)
+4. [Don't use client side](picoCTF/web01/dontUseClientSide.md)
+5. [Pico browser](picoCTF/web01/picoBrowser.md)
+6. [Client side again](picoCTF/web01/clientSideAgain.md)
+7. 
+
+
