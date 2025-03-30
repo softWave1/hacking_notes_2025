@@ -6,7 +6,6 @@
 - Juan David Ibarra Torres
 
 ## PicoCTF - General Skills 01
-
 1. [Let's Warm up](picoCTF/01generalSkills/LetsWarmUp.md)
 2. [2Warm](picoCTF/01generalSkills/2Warm.md)
 3. [WarmedUp](picoCTF/01generalSkills/WarmedUp.md)
@@ -18,7 +17,6 @@
 9. [Glitch Cat](picoCTF/01generalSkills/GlitchCat.md)
 10. [Nice netcat...](picoCTF/01generalSkills/NiceNetcat.md)
 ## PicoCTF - General Skills 02
-
 1. [Based](picoCTF/02generalSkills/based.md)
 2.  [Strings it](picoCTF/02generalSkills/stringsIt.md)
 3.  [Wave a flag](picoCTF/02generalSkills/waveAFlag.md)
@@ -66,6 +64,8 @@
 2. [Cookies](picoCTF/web02/cookies.md)
 3. [Scavenger Hunt](picoCTF/web02/scavengerHunt.md)
 
-
-
+## PicoCTF - Web 3
+1. [Irish-Name-Repo 1](picoCTF/web03/irishNameRepo.md)
+2. [More SQLi](picoCTF/web03/moreSQLi.md)
+3. [JaWT Scratchpad](picoCTF/web03/JaWTScratchpad.md)
 
