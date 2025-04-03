@@ -69,3 +69,9 @@
 2. [More SQLi](picoCTF/web03/moreSQLi.md)
 3. [JaWT Scratchpad](picoCTF/web03/JaWTScratchpad.md)
 
+## PicoCTF - Forensics 1
+1. [Glory of the Garden](picoCTF/forense01/gloryOfTheGarden.md)
+2. [So Meta](picoCTF/forense01/soMeta.md)
+3. [Shark on wire share](picoCTF/forense01/sharkOnWire.md)
+4. [Extensions](picoCTF/forense01/extensions.md)
+5. [What Lies Within](picoCTF/forense01/whatLiesWithin.md)
