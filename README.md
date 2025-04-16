@@ -71,8 +71,6 @@
 
 ## PicoCTF - Web 4
 1. [Irish-Name-Repo 1](picoCTF/web03/irishNameRepo.md)
-
- 
 ## PicoCTF - Forensics 1
 1. [Glory of the Garden](picoCTF/forense01/gloryOfTheGarden.md)
 2. [So Meta](picoCTF/forense01/soMeta.md)
@@ -86,3 +84,25 @@
 3. [Corrupt](picoCTF/forense02/corrupt.md)
 4. [like1000](picoCTF/forense02/like1000.md)
 5. [shark on wire 2](picoCTF/forense02/sharkOnWire2.md)
+## Primer Parcial - Parte 1 - General Skills
+1. [FANTASY CTF](picoCTF/primerExamenParcial/fantasyCTF.md)
+2. [HashingJobApp](picoCTF/primerExamenParcial/HashingJobApp.md) 
+3. [Python Wrangling](picoCTF/primerExamenParcial/pythonWrangling.md)
+4. [Rust fixme 1](picoCTF/primerExamenParcial/rustFixme1.md)
+5. [Rust fixme 2](picoCTF/primerExamenParcial/rustFixme2.md)
+6. [Rust fixme 3](picoCTF/primerExamenParcial/rustFixme3.md)
+7. [dont-you-love-banners](picoCTF/primerExamenParcial/dontulovebanners.md)
+8. [flag_shop](picoCTF/primerExamenParcial/flag_shop.md)
+9. [SansAlpha](picoCTF/primerExamenParcial/SansAlpha.md)
+10. [Specialer](picoCTF/primerExamenParcial/specialer.md)
+## Primer Parcial - Parte 2 - Web 
+1. [Bookmarklet](picoCTF/primerExamenParcial/bookmarklet.md)
+2. [Cookie Monster Secret Recipe](picoCTF/primerExamenParcial/cookieMonsterSecretRecipe.md)
+3.  [head-dump](picoCTF/primerExamenParcial/headDump.md)
+4.  [n0s4n1ty 1](picoCTF/primerExamenParcial/n0s4n1ty1.md)
+5.  [SSTI1](picoCTF/primerExamenParcial/SSTI1.md)
+6.  [findme](picoCTF/primerExamenParcial/findme.md)
+7. [Java Code Analysis!?!](picoCTF/primerExamenParcial/javaCodeAnalysis.md)
+8. [SQL Direct](picoCTF/primerExamenParcial/SQLDirect.md)
+9. [SSTI2](picoCTF/primerExamenParcial/SSTI2.md)
+10. [WebSockFish](picoCTF/primerExamenParcial/websocket.md)
