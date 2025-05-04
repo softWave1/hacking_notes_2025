@@ -84,6 +84,12 @@
 3. [Corrupt](picoCTF/forense02/corrupt.md)
 4. [like1000](picoCTF/forense02/like1000.md)
 5. [shark on wire 2](picoCTF/forense02/sharkOnWire2.md)
+## PicoCTF - Forensics 3
+1. [WebNet0](picoCTF/forense03/WebNet0.md)
+2. [Webnet1](picoCTF/forense03/Webnet1.md)
+3. [Matryoshka doll](picoCTF/forense03/matryoshkaDoll.md)
+4. [tunn3l_v1s10n](picoCTF/forense03/tunn3l_v1s10n.md)
+5. [MacroHard WeakEdge](picoCTF/forense03/macroHardWeakEdge.md)
 ## Primer Parcial - Parte 1 - General Skills
 1. [FANTASY CTF](picoCTF/primerExamenParcial/fantasyCTF.md)
 2. [HashingJobApp](picoCTF/primerExamenParcial/HashingJobApp.md) 
