@@ -109,6 +109,16 @@
 8. [RED](picoCTF/tareaForense/RED.md)
 9. [Ph4nt0m 1ntrud3r](picoCTF/tareaForense/ph4nt0m1ntrud3r.md)
 10. [flags are stepic](picoCTF/tareaForense/flagsAreStepic.md)
+
+## PicoCTF - Crypto 1
+1. [The numbers](picoCTF/crypto/theNumbers.md)
+2. [13](picoCTF/crypto/13.md)
+3.  [Cesar](picoCTF/crypto/Cesar.md)
+4.  [Easy 1](picoCTF/crypto/easy1.md)
+5.  [la cifra de](picoCTF/crypto/laCifraDe.md)
+6.  [Tapping](picoCTF/crypto/tapping.md)
+7.  [waves over lambda](picoCTF/crypto/wavesOverLambda.md)
+8.  [interencdec](picoCTF/crypto/interencdec.md)
 ## Primer Parcial - Parte 1 - General Skills
 1. [FANTASY CTF](picoCTF/primerExamenParcial/fantasyCTF.md)
 2. [HashingJobApp](picoCTF/primerExamenParcial/HashingJobApp.md) 
