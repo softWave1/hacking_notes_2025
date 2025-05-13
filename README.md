@@ -90,6 +90,13 @@
 3. [Matryoshka doll](picoCTF/forense03/matryoshkaDoll.md)
 4. [tunn3l_v1s10n](picoCTF/forense03/tunn3l_v1s10n.md)
 5. [MacroHard WeakEdge](picoCTF/forense03/macroHardWeakEdge.md)
+## PicoCTF - Forensics 4
+1. [Milkslap](picoCTF/forense04/milkslap.md)
+2. [Disk, disk, sleuth!](picoCTF/forense04/diskDiskSleuth.md)
+3. [Sleuthkit Intro](picoCTF/forense04/Sleuthkit Intro.md)
+4. [Sleuthkit Apprentice](picoCTF/forense04/sleuthkitApprentice.md)
+5. [Operation Orchid](picoCTF/forense04/operationOrchid.md)
+6. [Operation Oni](picoCTF/forense04/operationOni.md)
 ## Primer Parcial - Parte 1 - General Skills
 1. [FANTASY CTF](picoCTF/primerExamenParcial/fantasyCTF.md)
 2. [HashingJobApp](picoCTF/primerExamenParcial/HashingJobApp.md) 
