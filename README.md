@@ -93,7 +93,7 @@
 ## PicoCTF - Forensics 4
 1. [Milkslap](picoCTF/forense04/milkslap.md)
 2. [Disk, disk, sleuth!](picoCTF/forense04/diskDiskSleuth.md)
-3. [Sleuthkit Intro](picoCTF/forense04/Sleuthkit Intro.md)
+3. [Sleuthkit Intro](picoCTF/forense04/SleuthkitIntro.md)
 4. [Sleuthkit Apprentice](picoCTF/forense04/sleuthkitApprentice.md)
 5. [Operation Orchid](picoCTF/forense04/operationOrchid.md)
 6. [Operation Oni](picoCTF/forense04/operationOni.md)
