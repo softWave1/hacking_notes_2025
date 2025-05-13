@@ -97,6 +97,18 @@
 4. [Sleuthkit Apprentice](picoCTF/forense04/sleuthkitApprentice.md)
 5. [Operation Orchid](picoCTF/forense04/operationOrchid.md)
 6. [Operation Oni](picoCTF/forense04/operationOni.md)
+
+## PicoCTF - Tarea 3 - Forensic
+1. [information](picoCTF/tareaForense/information.md)
+2. [St3g0](picoCTF/tareaForense/St3g0.md)
+3. [Redaction gone wrong](picoCTF/tareaForense/redactionGoneWrong.md)
+4. [hideme](picoCTF/tareaForense/hideme.md)
+5. [Scan Surprise](picoCTF/tareaForense/ScanSurprise.md)
+6. [CanYouSee](picoCTF/tareaForense/CanYouSee.md)
+7. [Secret of the Polyglot](picoCTF/tareaForense/secretOfThePolyglot.md)
+8. [RED](picoCTF/tareaForense/RED.md)
+9. [Ph4nt0m 1ntrud3r](picoCTF/tareaForense/ph4nt0m1ntrud3r.md)
+10. [flags are stepic](picoCTF/tareaForense/flagsAreStepic.md)
 ## Primer Parcial - Parte 1 - General Skills
 1. [FANTASY CTF](picoCTF/primerExamenParcial/fantasyCTF.md)
 2. [HashingJobApp](picoCTF/primerExamenParcial/HashingJobApp.md) 
