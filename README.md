@@ -119,6 +119,9 @@
 6.  [Tapping](picoCTF/crypto/tapping.md)
 7.  [waves over lambda](picoCTF/crypto/wavesOverLambda.md)
 8.  [interencdec](picoCTF/crypto/interencdec.md)
+
+## PicoCTF - Crypto 2
+1. [rsa-pop-quiz](picoCTF/crypto2/rsaPopQuiz.md)
 ## Primer Parcial - Parte 1 - General Skills
 1. [FANTASY CTF](picoCTF/primerExamenParcial/fantasyCTF.md)
 2. [HashingJobApp](picoCTF/primerExamenParcial/HashingJobApp.md) 
